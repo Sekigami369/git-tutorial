@@ -1,3 +1,3 @@
-"second try commit"
+git-tutoral
 
-3rd try
+feature-Aからの変更
