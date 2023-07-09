@@ -6,3 +6,6 @@ line 4 feature-A
 line 5 feature-A
 
 line 6 feature-A
+
+line 7 feature-D remoto
+    git-tutorial-2
