@@ -9,3 +9,6 @@ line 6 feature-A
 
 line 7 feature-D remoto
     git-tutorial-2
+
+line 8
+    git-app1
