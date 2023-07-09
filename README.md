@@ -12,3 +12,7 @@ line 7 feature-D remoto
 
 line 8
     git-app1
+
+line 9
+    fix-B
+    
